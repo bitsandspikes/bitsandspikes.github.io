@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Theory Matters?"
+title: "Why Theory Matters"
 date: 2020-03-06
 ---
 
