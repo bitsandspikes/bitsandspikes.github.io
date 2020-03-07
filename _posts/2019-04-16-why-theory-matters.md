@@ -15,22 +15,19 @@ To end for now, I will list here a few questions and thoughts that I gathered fr
 
 Notes from Theory Matters at COSYNE 16 (videos available [here](http://catniplab.github.io/theory-matters/))
 
-<ol>
-<li> What is the role of theory in neuroscience?</li>
-<li> What kinds of theories would benefit from experimentation? </li>
-<li> Did theory have an impact on neuroscience? </li>
-<li> Why do we need to promote theory in neuroscience? </li>
-<li> What computational tools made a significant impact in neuroscience? </li>
-<li> What do we need to (do) bring theorists and experimentalists together? </li>
-<li> How is it like to be in an experimental lab and theory lab at the same time? (Be willing to ask dumb questions) </li>
-<li> Did theories help your experiments? </li>
-<li> There is a strong need for models and theories to capture the heterogeneity of cell-types and neural responses (Anne Churchland)</li>
-<li> In terms of an experimentalist who moved into theory it’s trying to understand the basic phenomenon, the underlying principle of the experimental question of interest (Bradley Voytek) </li>
-<li> Experiments can establish “necessary” conditions for phenomenon, but experimental neuroscience cannot, but theory can, establish “sufficient” conditions. Together, these can work out the necessary and sufficient conditions, which is exactly what we want to understand to understand how nature works. (Eugene Izhikevich) </li>
-<li> We rely on theory mostly to explain our data and characterize it better, but we really want theory to do is to make predictions to drive experiments (Benjamin Scholl) </li>
-</ol>
+1. What is the role of theory in neuroscience?
+2. What kinds of theories would benefit from experimentation? 
+3. Did theory have an impact on neuroscience? 
+4. Why do we need to promote theory in neuroscience?
+5. What computational tools made a significant impact in neuroscience? 
+6. What do we need to (do) bring theorists and experimentalists together? 
+7. How is it like to be in an experimental lab and theory lab at the same time? (Be willing to ask dumb questions) 
+8. Did theories help your experiments? 
+9. There is a strong need for models and theories to capture the heterogeneity of cell-types and neural responses (Anne Churchland)
+10. In terms of an experimentalist who moved into theory it’s trying to understand the basic phenomenon, the underlying principle of the experimental question of interest (Bradley Voytek) 
+11. Experiments can establish “necessary” conditions for phenomenon, but experimental neuroscience cannot, but theory can, establish “sufficient” conditions. Together, these can work out the necessary and sufficient conditions, which is exactly what we want to understand to understand how nature works. (Eugene Izhikevich)
+12. We rely on theory mostly to explain our data and characterize it better, but we really want theory to do is to make predictions to drive experiments (Benjamin Scholl) 
+
  
-
-
 One of the interviewees said that for experimentalists and theorists working together, they should “be willing to ask dumb questions” – I hope to do exactly that to people who work at this interface.
 
