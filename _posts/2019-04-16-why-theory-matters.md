@@ -17,29 +17,33 @@ To end for now, I will list here a few questions and thoughts that I gathered fr
 
 Notes from Theory Matters at COSYNE 16 (videos available [here](http://catniplab.github.io/theory-matters/))
 
-1. What is the role of theory in neuroscience?
+<ol>
+ 
+<li> What is the role of theory in neuroscience?</li>
 
-2. What kinds of theories would benefit from experimentation? 
+<li> What kinds of theories would benefit from experimentation? </li>
 
-3. Did theory have an impact on neuroscience? 
+<li> Did theory have an impact on neuroscience? </li>
 
-4. Why do we need to promote theory in neuroscience?
+<li> Why do we need to promote theory in neuroscience? </li>
 
-5. What computational tools made a significant impact in neuroscience? 
+<li> What computational tools made a significant impact in neuroscience? </li>
 
-6. What do we need to (do) bring theorists and experimentalists together? 
+<li> What do we need to (do) bring theorists and experimentalists together? </li>
 
-7. How is it like to be in an experimental lab and theory lab at the same time? (Be willing to ask dumb questions) 
+<li> How is it like to be in an experimental lab and theory lab at the same time? (Be willing to ask dumb questions) </li>
 
-8. Did theories help your experiments? 
+<li> Did theories help your experiments? </li>
 
-9. There is a strong need for models and theories to capture the heterogeneity of cell-types and neural responses (Anne Churchland)
+<li> There is a strong need for models and theories to capture the heterogeneity of cell-types and neural responses (Anne Churchland)</li>
 
-10. In terms of an experimentalist who moved into theory it’s trying to understand the basic phenomenon, the underlying principle of the experimental question of interest (Bradley Voytek) 
+<li> In terms of an experimentalist who moved into theory it’s trying to understand the basic phenomenon, the underlying principle of the experimental question of interest (Bradley Voytek) </li>
 
-11. Experiments can establish “necessary” conditions for phenomenon, but experimental neuroscience cannot, but theory can, establish “sufficient” conditions. Together, these can work out the necessary and sufficient conditions, which is exactly what we want to understand to understand how nature works. (Eugene Izhikevich)
+<li> Experiments can establish “necessary” conditions for phenomenon, but experimental neuroscience cannot, but theory can, establish “sufficient” conditions. Together, these can work out the necessary and sufficient conditions, which is exactly what we want to understand to understand how nature works. (Eugene Izhikevich) </li>
 
-12. We rely on theory mostly to explain our data and characterize it better, but we really want theory to do is to make predictions to drive experiments (Benjamin Scholl) 
+<li> We rely on theory mostly to explain our data and characterize it better, but we really want theory to do is to make predictions to drive experiments (Benjamin Scholl) </li>
+
+</ol>
 
  
 One of the interviewees said that for experimentalists and theorists working together, they should “be willing to ask dumb questions” – I hope to do exactly that to people who work at this interface.
