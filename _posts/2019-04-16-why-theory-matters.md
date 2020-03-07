@@ -5,7 +5,7 @@ date: 2019-04-16
 ---
 
 
-In the first post on this blog, I want to discuss my motivations for writing about Theory in Neuroscience. My honest motivation is so that I can learn more about the role of theory in neuroscience (the best way to learn is by doing?). But why should I or we care?
+In the first post on this blog, I want to discuss my motivations for writing about Theory in Neuroscience. My honest motivation is that I can learn more about the role of theory in neuroscience (the best way to learn is by doing?). But why should I or we care?
 
 We should care because, collectively, we all want to _understand_ the brain. By understanding, what I am referring to is be able to _describe mechanisms_ for the function or phenomenon of interest. This would require that the multiple datapoints pertaining to the system can eventually build a cohesive and consistent picture. For me, this naturally invokes the need to have a “theoretical” model in mind, which would enable explicitly stating the assumptions built into our understanding, and to identify the relevant variables. This model built from available data can guide us into the unknown, helping us define the gaps and how they can be addressed most effectively.
 
